@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h2></h2>
+
 ![Gulam-Ali-banner](Gulam-Ali-banner.png)
 
 I'm an iOS developer and tech influencer with 3 years of experience, specializing in developing native iOS Mobile Applications.
