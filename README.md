@@ -7,7 +7,7 @@ I am passionate about Swift & SwiftUI 💻💥, I've helped startups to develop 
 
 ### About Me 😎
 
-- 🔭 I’m currently working on bringing an idea into reality
+- 🔭 I’m currently working on my Own App 
 - 🌱 I’m currently learning SwiftUI
 - 👯 I’m looking to collaborate on some iOS app development
 - 📫 How to reach me: gulam2275@gmail.com
