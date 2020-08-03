@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Gulam-Ali-banner](Gulam-Ali-banner.png)
+![Gulam-Ali-banner](https://i.imgur.com/NiUCcaN.png)
 
 I'm an iOS developer and tech influencer with 3 years of experience, specializing in developing native iOS Mobile Applications.
 I am passionate about Swift & SwiftUI 💻💥, 💁🏻I share my Insights, Tricks, and Tips on iOS development on my Instagram.
