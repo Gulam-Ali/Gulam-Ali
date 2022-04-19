@@ -16,6 +16,8 @@ I am passionate about Swift & SwiftUI 💻💥,My passion for software lies with
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I know it's crazy but, Am full time foodie & part time techie 😛
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### Get in Touch
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
