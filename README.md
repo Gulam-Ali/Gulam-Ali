@@ -2,7 +2,7 @@
 
 ![Gulam-Ali-banner](https://i.imgur.com/NiUCcaN.png)
 
-I'm an iOS engineer with 4+ years of experience, specializing in developing native iOS Applications from scratch upto App store.
+I'm an iOS engineer with 5+ years of experience, specializing in developing native iOS Applications from scratch.
 I am passionate about Swift & SwiftUI 💻💥,My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build., Apart from working for an organisation am also working on my project & sometimes 💁🏻I share my Insights, Tricks, and Tips on iOS development on my Instagram & LinkedIn.
 
  
