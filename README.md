@@ -1,52 +1,15 @@
-# Hey, Nice to see you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-![Gulam-Ali-banner](https://i.imgur.com/NiUCcaN.png)
-
-I'm an iOS engineer with 5+ years of experience, specializing in developing native iOS Applications from scratch.
-I am passionate about Swift & SwiftUI 💻💥,My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build., Apart from working for an organisation am also working on my project & sometimes 💁🏻I share my Insights, Tricks, and Tips on iOS development on my Instagram & LinkedIn.
-
- 
-### About Me 😎
-
-- 🔭 I’m currently working on my Own App 
-- 🧑‍💻 I've worked with many clients & companies and helped them to build their awesome products
-- 🌱 I’m currently learning SwiftUI
-- 👯 I’m looking to collaborate on some iOS app development
-- 📫 How to reach me: gulam2275@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I know it's crazy but, Am full time foodie & part time techie 😛
-
-### Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-### Get in Touch
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
+# 💫 About Me:
+Hi, I'm Gulam 👋<br>With over 6 years of experience as an iOS Engineer, I’ve had the opportunity to bring a wide range of native apps to life from scratch—turning ideas into sleek, fully-deployed solutions. As a Senior iOS Engineer, I lead a talented team of developers, collaborating closely with designers and backend teams to create seamless and scalable technical solutions.<br><br>My toolkit includes Swift, Objective-C, SwiftUI, and iOS frameworks like UIKit, Core Data, and Core Animation. I pride myself on delivering apps that not only look great but also function flawlessly. Beyond iOS development, I’m skilled in backend tasks like building REST APIs, working with microservices architecture, and managing databases using NodeJS, Docker, and AWS.<br><br>Currently, I'm also working on building a transformative SaaS product aimed at revolutionizing the health industry—exciting times ahead! 🚀<br><br>I’m passionate about solving complex problems, love working in fast-paced environments, and enjoy learning new technologies—I'm currently diving into hybrid app development with React Native. With a proven track record of shipping high-quality apps and a strong focus on user experience, I'm always ready for the next challenge!<br><br>Skills:<br><br>iOS Development: Swift, Objective-C, SwiftUI, UIKit<br>Backend: NodeJS, REST APIs, Microservices, Docker, AWS<br>CI/CD: GitLab CI/CD, Fastlane<br>Version Control: Git, GitHub<br>Fun fact: When I’m not coding, I’m probably geeking out on the latest tech trends or planning my next travel adventure! 🌍✈️<br><br>Let’s build something great together!
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gulam2275&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gulam2275&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gulam2275&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- icons with padding -->
+---
+[![](https://visitcount.itsvg.in/api?id=gulam2275&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[1.1]: https://imgur.com/lBEdHEk.png (twitter icon with padding)
-[2.1]: https://imgur.com/RCqdupi.png (instagram icon with padding)
-[3.1]: http://imgur.com/luSYgRR.png (linkedin icon with padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/gulam2275
-[2]: https://www.instagram.com/gulam_iosdev/
-[3]: https://www.linkedin.com/in/gulam-ali-ios-developer/
-
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
